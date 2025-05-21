@@ -1,5 +1,5 @@
 {
-  "domain": "tuya",
+  "domain": "tuya-colodochine",
   "name": "Tuya (Colodochine)",
   "codeowners": ["@Tuya", "@daoduyquang91"],
   "config_flow": true,
